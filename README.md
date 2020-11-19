@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-* This is polossk speaking.
-* Check out my blog [<#>](https://blog.polossk.com/) (in Chinese).
-* Funny, after I make my solver into private, the `python` doesn't exist in my top 5 fav lang.
+* 🤔 This is polossk speaking.
+* 📫 Check out my blog [<#>](https://blog.polossk.com/) (in Chinese).
+* <del>⚡ Funny, after I make my solver into private, the `python` doesn't exist in my top 5 fav lang.</del>
+* 😄 I finally find my `python` in my top 10 fav lang!
 
 [![Z-Shang's github stats](https://github-readme-stats.vercel.app/api?username=polossk&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polossk&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polossk&langs_count=10&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

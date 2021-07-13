@@ -8,9 +8,6 @@
 * ⚡ A new set of cards is now added to my personal page.
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=polossk&show_icons=true&count_private=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polossk&langs_count=10&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
-
-[![overview](https://raw.githubusercontent.com/polossk/github-stats/master/generated/overview.svg)](https://github.com/jstrieb/github-stats)
 [![languages](https://raw.githubusercontent.com/polossk/github-stats/master/generated/languages.svg)](https://github.com/jstrieb/github-stats)
 
 <!--

@@ -26,8 +26,11 @@
 
 #### My Repositories
 
-[![blog](https://img.shields.io/badge/jekyll-blog.polossk.com-%23CC0000.svg?style=for-the-badge&logo=jekyll&logoColor=ffffff)](https://blog.polossk.com/)
-[![PD-example](https://img.shields.io/badge/Numpy--based-PD%20examples-%2300A3E0.svg?style=for-the-badge&logo=numpy&logoColor=ffffff)](https://github.com/polossk/Peridynamics-Example-Using-HMSolver/)
+* [![blog](https://img.shields.io/badge/jekyll-blog.polossk.com-%23CC0000.svg?style=for-the-badge&logo=jekyll&logoColor=ffffff)](https://blog.polossk.com/)
+* [![LaTeX](https://img.shields.io/badge/LaTeX%20Template-Bachlor%20Thesis%20of%20NPU-%23008080.svg?style=for-the-badge&logo=latex&logoColor=ffffff)](https://github.com/polossk/LaTeX-Template-For-NPU-Thesis)
+* [![LaTeX](https://img.shields.io/badge/LaTeX%20Template-Master%20Thesis%20or%20Ph.D.%20dissertation%20of%20NPU-%23008080.svg?style=for-the-badge&logo=latex&logoColor=ffffff)](https://github.com/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis)
+* [![C++](https://img.shields.io/badge/c++-Functional%20Programming%20from%20Scratch-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)](https://github.com/polossk/Zero-Kara-FCPP)
+* [![PD-example](https://img.shields.io/badge/Numpy--based-PD%20examples-%2300A3E0.svg?style=for-the-badge&logo=numpy&logoColor=ffffff)](https://github.com/polossk/Peridynamics-Example-Using-HMSolver/)
 
 #### My Paper
 
@@ -63,4 +66,3 @@ Here are some ideas to get you started:
 -->
 
 [badge-matlab]: ./images/MATLAB-%23FAE4DC.svg
-

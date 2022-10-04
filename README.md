@@ -1,10 +1,13 @@
-### Hi there 👋 ![GitHub Followers](https://img.shields.io/github/followers/polossk?style=social) ![GitHub Stars](https://img.shields.io/github/stars/polossk?style=social)
+<a href="https://github.com/jstrieb/github-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=polossk&show_icons=true&count_private=true&title_color=1D3557&text_color=212121&icon_color=E63946&bg_color=DEG,F1FAEE,A8DADC" /></a>
 
+### Hi there 👋 
+
+<!-- 
 ![](https://img.shields.io/badge/-E63946-E63946?style=for-the-badge)
 ![](https://img.shields.io/badge/-F1FAEE-F1FAEE?style=for-the-badge)
 ![](https://img.shields.io/badge/-A8DADC-A8DADC?style=for-the-badge)
 ![](https://img.shields.io/badge/-457B9D-457B9D?style=for-the-badge)
-![](https://img.shields.io/badge/-1D3557-1D3557?style=for-the-badge)
+![](https://img.shields.io/badge/-1D3557-1D3557?style=for-the-badge) -->
 
 #### Skills and Languages
 
@@ -24,6 +27,8 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
+<a href="https://github.com/jstrieb/github-stats"><img align="right" src="https://raw.githubusercontent.com/polossk/github-stats/master/generated/languages.svg" /></a>
+
 #### My Repositories
 
 * [![blog](https://img.shields.io/badge/jekyll-blog.polossk.com-%23CC0000.svg?style=for-the-badge&logo=jekyll&logoColor=ffffff)](https://blog.polossk.com/)
@@ -34,12 +39,9 @@
 
 #### My Paper
 
-* ![TAFMEC](https://img.shields.io/badge/TAFMEC-%23FF6C00.svg?style=for-the-badge&logo=elsevier&logoColor=white) **Shen, S.**, Yang, Z., Han, F., Cui, J., & Zhang, J. (2021). Peridynamic modeling with energy-based surface correction for fracture simulation of random porous materials. _Theoretical and Applied Fracture Mechanics_, 114, 102987. [GitHub Link](https://github.com/polossk/TAFMEC-102987) <https://doi.org/10.1016/j.tafmec.2021.102987>
-
-#### My Status
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=polossk&show_icons=true&count_private=true&title_color=1D3557&text_color=212121&icon_color=E63946&bg_color=DEG,F1FAEE,A8DADC)](https://github.com/anuraghazra/github-readme-stats)
-[![languages](https://raw.githubusercontent.com/polossk/github-stats/master/generated/languages.svg)](https://github.com/jstrieb/github-stats)
+<!-- * Yang, Z., Zheng, S., Han, F., **Shen, S.**, & Guan, X. (2022). An Improved Peridynamic Model with Energy-Based Micromodulus Correction Method for Fracture in Particle Reinforced Composites. Communications in Computational Physics, 32(2), 424-449. <https://doi.org/10.4208/cicp.OA-2022-0012 > ![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/a488a0c28b6c4c878889f4cfaa94c7ec54a7e7bb?fields=citationCount) ![IF](https://img.shields.io/badge/IF-8.083-orange)  --><!-- <https://sci.justscience.cn/details.html?sci=1&id=7302> -->
+* Yang, Z., Zheng, S., Han, F., **Shen, S.**, & Guan, X. (2022). An Improved Peridynamic Model with Energy-Based Micromodulus Correction Method for Fracture in Particle Reinforced Composites. Communications in Computational Physics, 32(2), 424-449. <https://doi.org/10.4208/cicp.OA-2022-0012> ![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/a488a0c28b6c4c878889f4cfaa94c7ec54a7e7bb?fields=citationCount) ![IF](https://img.shields.io/badge/IF-3.791-orange) <!-- <https://sci.justscience.cn/details.html?sci=1&id=3175> -->
+* **Shen, S.**, Yang, Z., Han, F., Cui, J., & Zhang, J. (2021). Peridynamic modeling with energy-based surface correction for fracture simulation of random porous materials. _Theoretical and Applied Fracture Mechanics_, 114, 102987. [GitHub Link](https://github.com/polossk/TAFMEC-102987) <https://doi.org/10.1016/j.tafmec.2021.102987> ![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/51a8b912b7795bc1aa5e349db6ae92f33f406396?fields=citationCount) ![IF](https://img.shields.io/badge/IF-4.374-orange) <!-- <https://sci.justscience.cn/details.html?sci=1&id=5319> -->
 
 #### Reference
 
@@ -48,7 +50,7 @@
 * <https://shields.io/>
 * <https://github.com/Ileriayo/markdown-badges>
 
-
+<!-- ![TAFMEC](https://img.shields.io/badge/TAFMEC-%23FF6C00.svg?style=for-the-badge&logo=elsevier&logoColor=white) -->
 
 <!--
 **polossk/polossk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -31,16 +31,16 @@
 
 #### My Repositories
 
-* [![blog](https://img.shields.io/badge/jekyll-blog.polossk.com-%23CC0000.svg?style=for-the-badge&logo=jekyll&logoColor=ffffff)](https://blog.polossk.com/)
-* [![LaTeX](https://img.shields.io/badge/LaTeX%20Template-Bachlor%20Thesis%20of%20NPU-%23008080.svg?style=for-the-badge&logo=latex&logoColor=ffffff)](https://github.com/polossk/LaTeX-Template-For-NPU-Thesis)
-* [![LaTeX](https://img.shields.io/badge/LaTeX%20Template-Master%20Thesis%20or%20Ph.D.%20dissertation%20of%20NPU-%23008080.svg?style=for-the-badge&logo=latex&logoColor=ffffff)](https://github.com/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis)
-* [![C++](https://img.shields.io/badge/c++-Functional%20Programming%20from%20Scratch-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)](https://github.com/polossk/Zero-Kara-FCPP)
-* [![PD-example](https://img.shields.io/badge/Numpy--based-PD%20examples-%2300A3E0.svg?style=for-the-badge&logo=numpy&logoColor=ffffff)](https://github.com/polossk/Peridynamics-Example-Using-HMSolver/)
+* [![blog](https://img.shields.io/badge/jekyll-blog.polossk.com-%23CC0000.svg?&logo=jekyll&logoColor=ffffff)](https://blog.polossk.com/)
+* [![LaTeX](https://img.shields.io/badge/LaTeX%20Template-Bachlor%20Thesis%20of%20NPU-%23008080.svg?e&logo=latex&logoColor=ffffff)](https://github.com/polossk/LaTeX-Template-For-NPU-Thesis)
+* [![LaTeX](https://img.shields.io/badge/LaTeX%20Template-Master%20Thesis%20or%20Ph.D.%20dissertation%20of%20NPU-%23008080.svg?&logo=latex&logoColor=ffffff)](https://github.com/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis)
+* [![C++](https://img.shields.io/badge/c++-Functional%20Programming%20from%20Scratch-%2300599C.svg?logo=c%2B%2B&logoColor=ffffff)](https://github.com/polossk/Zero-Kara-FCPP)
+* [![PD-example](https://img.shields.io/badge/Numpy--based-PD%20examples-%2300A3E0.svg?logo=numpy&logoColor=ffffff)](https://github.com/polossk/Peridynamics-Example-Using-HMSolver/)
 
 #### My Paper
 
 <!-- * Yang, Z., Zheng, S., Han, F., **Shen, S.**, & Guan, X. (2022). An Improved Peridynamic Model with Energy-Based Micromodulus Correction Method for Fracture in Particle Reinforced Composites. Communications in Computational Physics, 32(2), 424-449. <https://doi.org/10.4208/cicp.OA-2022-0012 > ![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/a488a0c28b6c4c878889f4cfaa94c7ec54a7e7bb?fields=citationCount) ![IF](https://img.shields.io/badge/IF-8.083-orange)  --><!-- <https://sci.justscience.cn/details.html?sci=1&id=7302> -->
-* Yang, Z., Zheng, S., Han, F., **Shen, S.**, & Guan, X. (2022). An Improved Peridynamic Model with Energy-Based Micromodulus Correction Method for Fracture in Particle Reinforced Composites. Communications in Computational Physics, 32(2), 424-449. <https://doi.org/10.4208/cicp.OA-2022-0012> ![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/a488a0c28b6c4c878889f4cfaa94c7ec54a7e7bb?fields=citationCount) ![IF](https://img.shields.io/badge/IF-3.791-orange) <!-- <https://sci.justscience.cn/details.html?sci=1&id=3175> -->
+* Yang, Z., Zheng, S., Han, F., **Shen, S.**, & Guan, X. (2022). An Improved Peridynamic Model with Energy-Based Micromodulus Correction Method for Fracture in Particle Reinforced Composites. _Communications in Computational Physics_, 32(2), 424-449. <https://doi.org/10.4208/cicp.OA-2022-0012> ![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/a488a0c28b6c4c878889f4cfaa94c7ec54a7e7bb?fields=citationCount) ![IF](https://img.shields.io/badge/IF-3.791-orange) <!-- <https://sci.justscience.cn/details.html?sci=1&id=3175> -->
 * **Shen, S.**, Yang, Z., Han, F., Cui, J., & Zhang, J. (2021). Peridynamic modeling with energy-based surface correction for fracture simulation of random porous materials. _Theoretical and Applied Fracture Mechanics_, 114, 102987. [GitHub Link](https://github.com/polossk/TAFMEC-102987) <https://doi.org/10.1016/j.tafmec.2021.102987> ![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/51a8b912b7795bc1aa5e349db6ae92f33f406396?fields=citationCount) ![IF](https://img.shields.io/badge/IF-4.374-orange) <!-- <https://sci.justscience.cn/details.html?sci=1&id=5319> -->
 
 #### Reference
